@@ -327,6 +327,13 @@ repositories/http\:__download.eclipse.org_technology_m2e_releases_1.9_1.9.0.2018
 repositories/http\:__download.eclipse.org_technology_m2e_releases_1.9_1.9.0.20180606-2036/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
 repositories/http\:__download.eclipse.org_technology_m2e_releases_1.9_1.9.0.20180606-2036/uri=http\://download.eclipse.org/technology/m2e/releases/1.9/1.9.0.20180606-2036
 repositories/http\:__download.eclipse.org_technology_m2e_releases_1.9_1.9.0.20180606-2036/version=1.0.0
+repositories/http\:__download.eclipse.org_technology_m2e_releases_1.9_1.9.1.20180912-1601/enabled=false
+repositories/http\:__download.eclipse.org_technology_m2e_releases_1.9_1.9.1.20180912-1601/isSystem=true
+repositories/http\:__download.eclipse.org_technology_m2e_releases_1.9_1.9.1.20180912-1601/name=Maven Integration for Eclipse Update Site
+repositories/http\:__download.eclipse.org_technology_m2e_releases_1.9_1.9.1.20180912-1601/suffix=content.xml.xz
+repositories/http\:__download.eclipse.org_technology_m2e_releases_1.9_1.9.1.20180912-1601/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/http\:__download.eclipse.org_technology_m2e_releases_1.9_1.9.1.20180912-1601/uri=http\://download.eclipse.org/technology/m2e/releases/1.9/1.9.1.20180912-1601
+repositories/http\:__download.eclipse.org_technology_m2e_releases_1.9_1.9.1.20180912-1601/version=1.0.0
 repositories/http\:__download.eclipse.org_webtools_repository_neon/count=1
 repositories/http\:__download.eclipse.org_webtools_repository_neon/description=
 repositories/http\:__download.eclipse.org_webtools_repository_neon/enabled=true
